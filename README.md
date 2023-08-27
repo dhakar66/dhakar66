@@ -1,4 +1,4 @@
-![logo](https://github.com/dhakar66/dhakar66/blob/main/Make%20your%20README%20(1).png)
+![logo](https://github.com/dhakar66/dhakar66/blob/main/banned.jpg)
 <h1 align="center">Hi 👋, I'm Tenzin Dhakar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
