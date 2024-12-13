@@ -1,6 +1,6 @@
 ![logo](https://github.com/dhakar66/dhakar66/blob/main/banned.jpg)
 <h1 align="center">Hi 👋, I'm Tenzin Dhakar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Graduate in Computer Science Engineering.</h3>
 
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611217876157/6ZbI33hAF.gif?auto=format,compress&gif-q=60&format=webm" align=“right” alt=“coding” width=“400” />
 
